@@ -16,11 +16,3 @@
 Originally created by [@itsaky](https://github.com/itsaky).  
 Now actively maintained by [@Tom](https://github.com/Mohammed-baqer-null).
 
-### 🚧 Status
-- Source code was publicly available until **v2.7.4-r1.02** under **GPL-3.0**.  
-- From **v1.0.0** onward, development continues **privately**.  
-- Public **APK releases** are still published in the [Releases](https://github.com/Mohammed-baqer-null/AndroidIDE-Rv2/releases) section.
-
-### 📜 License
-- Versions ≤ v2.7.4-r1.02 → **GPL-3.0**  
-- Versions ≥ v1.0-r01 → **Proprietary (All rights reserved)**
